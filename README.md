@@ -4,4 +4,4 @@
 
 ### CRUD using MySQL data base.
 
-#### Used - Web Services
+#### Used - Web Services, REST
